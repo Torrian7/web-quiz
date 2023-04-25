@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+.body{
+    background-color: black;
+    font-family: monospace;
+}
+
+.p{
+    color: white;
+    font-size: 1.3em;
+}
+
+.button{
+    outline: none;
+} 
+
+.outer-container{
+    padding: 12px;
+}
+
